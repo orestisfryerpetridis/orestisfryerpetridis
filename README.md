@@ -8,7 +8,7 @@ I use this space to build personal projects, explore new technologies, and conti
 - Python
 - Java
 - JavaScript
-- C/C++/C#
+- C / C++ / C#
 - SQL
 - HTML & CSS
 - Git & GitHub
