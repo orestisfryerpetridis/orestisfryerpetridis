@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm Orestis, a Computing Science graduate and aspiring Software Engineer based in Dartford.
+
+I use this space to build personal projects, explore new technologies, and continue developing my skills in software development, artificial intelligence, and machine learning.
+
+
 <!--
 **orestisfryerpetridis/orestisfryerpetridis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
